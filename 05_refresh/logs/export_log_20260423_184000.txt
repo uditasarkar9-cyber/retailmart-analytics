@@ -1,0 +1,11 @@
+============================================================================
+  RetailMart V2 Analytics — JSON Export
+  Database: Retailmart_Analytics
+  Output: ./06_dashboard/data
+  Started: Thu, Apr 23, 2026  6:40:07 PM
+============================================================================
+  ✓ Database connection verified
+
+Exporting JSON data...
+
+[1/10] Executive...

@@ -1,0 +1,6 @@
+============================================================================
+  RetailMart V2 Analytics — JSON Export
+  Database: accio_retailmart_24
+  Output: ./06_dashboard/data
+  Started: Thu, Apr 23, 2026  6:29:00 PM
+============================================================================
